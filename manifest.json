@@ -2,7 +2,7 @@
   "name" : "chiefcipher",
   "short_name": "cipher",
   "start_url" : "/" ,
-  "scope" : ".",
+  "scope" : "./",
   "icons": [
     {
       "src": "favicon.ico",
